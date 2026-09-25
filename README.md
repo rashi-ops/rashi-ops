@@ -34,7 +34,3 @@
 - **[Customer Support Ticket Intelligence + AI Assistant](https://github.com/rashi-ops/customer-support-ticket-intelligence)** — Full PostgreSQL schema, NLP (TF-IDF, VADER, LDA, Logistic Regression), 4-page Power BI dashboard, and a RAG assistant (FAISS + Groq LLM).
 - **[Cohort Retention & Churn Analytics Dashboard](https://github.com/rashi-ops/Cohort-Retention-Churn-Analytics-Dashboard)** — SQL cohort analysis and RFM scoring on ~1M-row retail data; ~45% overall churn, ~197 high-value at-risk customers flagged. Deployed via Streamlit.
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashi-ops&show_icons=true&theme=dark" />
-</p>
