@@ -12,6 +12,9 @@
 - 📫 Reach me: **vermarashi010@gmail.com**
 - ⚡ Fun fact: I like my model claims defensible.
 
+## 🏅 Achievements
+- ⭐ **5-star Gold Badge in SQL** on [HackerRank](https://www.hackerrank.com/profile/vermarashi010)
+
 ## 🌐 Socials
 <p align="left">
   <a href="https://www.linkedin.com/in/rashi-verma-69082933b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
